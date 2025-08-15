@@ -1,4 +1,4 @@
-#  EZ GenAI Smart Research Assistant
+#   GenAI Smart Research Assistant
 
 ## Features
 
